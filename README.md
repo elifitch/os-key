@@ -1,4 +1,4 @@
-# OS-KEY ⌨️
+# OS-Key ⌨️
 Sick of not knowing whether to display ⌘ or Ctrl? ⌥ or Alt? Me too. That's what OS-Key takes care of for ya.
 
 ## Usage

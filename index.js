@@ -12,7 +12,7 @@ function getOs(userAgentString, osRegexMap) {
   }
 }
 
-export default function osKey(userAgentString) {
+export default function OSKey(userAgentString) {
   const os = getOs(userAgentString, regexes);
   
   if (os) {
