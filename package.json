@@ -1,6 +1,6 @@
 {
   "name": "os-key",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Get the right modifier keys depending on your system",
   "files": [
     "dist"
